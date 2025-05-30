@@ -1,0 +1,6 @@
+Issue Key, Summary                         , Created Date                , Resolved Date               , MTTR (Hours)
+SEC-5    , [VDP] Critical Local Test Bug #3, 2025-05-28T08:01:54.463+0700, 2025-05-28T08:18:27.433+0700,         0.28
+SEC-4    , [VDP] LIVE CLOUD Test Bug! #2   , 2025-05-27T23:14:46.833+0700, 2025-05-28T08:18:25.339+0700,         9.06
+SEC-3    , [VDP] LIVE CLOUD Test Bug!      , 2025-05-27T21:30:02.920+0700, 2025-05-28T00:12:29.341+0700,         2.71
+SEC-2    , [VDP] Critical Local Test Bug   , 2025-05-27T20:55:21.939+0700, 2025-05-28T08:18:23.253+0700,        11.38
+SEC-1    , Test Bug #1                     , 2025-05-27T20:25:35.332+0700, 2025-05-28T00:13:28.290+0700,         3.8
